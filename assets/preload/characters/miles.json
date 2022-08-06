@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-19
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "rise",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				5,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/miles",
+	"position": [
+		190,
+		400
+	],
+	"healthicon": "icon-miles",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		84,
+		57
+	],
+	"camera_position": [
+		-170,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
